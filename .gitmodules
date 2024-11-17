@@ -1,0 +1,6 @@
+[submodule "pack/submodule/start/catppuccin"]
+	path = pack/submodule/start/catppuccin
+	url = https://github.com/catppuccin/nvim.git
+[submodule "pack/submodule/start/ibl"]
+	path = pack/submodule/start/ibl
+	url = https://github.com/lukas-reineke/indent-blankline.nvim.git
